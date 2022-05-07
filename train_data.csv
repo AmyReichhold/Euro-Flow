@@ -1,0 +1,5 @@
+Start, Dest1, Cost1, Dest2, Cost2, Dest3, Cost3
+Germany, France, 52.48, Italy, 52.93, Spain, 80.73
+France, Germany, 44.21, Italy, 39.61, Spain, 27.68 
+Italy, Germany, 52.85, France, 45.15, Spain, 112.37
+Spain, Germany, 80.58, France, 41.74, Italy, 88.35
