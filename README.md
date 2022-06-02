@@ -1,5 +1,17 @@
 # Euro-Flow
-##### By Amy Reichhold
+### By Amy Reichhold
+
+## How to run Euro-Flow
+On the command line, run the following command:
+```
+python3 euro_flow.py
+```
+The program will prompt you for where to fly from, the countries you 
+want to visit, and your budget. The program will compute the minimum cost,
+and report whether you can afford the trip and how much it would cost.
+The itinerary of the minimum cost trip will be provided regardless of if 
+you can afford it, and will be written to `Itinerary.txt` in the current
+directory.
 
 ## Overview and Goal of Project
 Everyone loves to travel, especially young adults, and especially to Europe. 
