@@ -1,0 +1,34 @@
+Euro-Flow Itinerary
+
+You are flying from Oakland to France for $1027.00 round trip.
+	A day in France costs $316.00.
+		Food costs $35.00.
+		Lodging costs $256.00.
+		Local Transportation costs $25.00.
+
+You are traveling from France to Germany by train for $44.21.
+	A day in Germany costs $180.00.
+		Food costs $34.00.
+		Lodging costs $126.00.
+		Local Transportation costs $20.00.
+
+You are traveling from Germany to Spain by train for $80.73.
+	A day in Spain costs $169.00.
+		Food costs $34.00.
+		Lodging costs $112.00.
+		Local Transportation costs $23.00.
+
+You are traveling from Spain to Italy by train for $88.35.
+	A day in Italy costs $202.00.
+		Food costs $38.00.
+		Lodging costs $142.00.
+		Local Transportation costs $22.00.
+
+You are traveling from Italy to France by train for $45.15.
+	A day in France costs $316.00.
+		Food costs $35.00.
+		Lodging costs $256.00.
+		Local Transportation costs $25.00.
+
+The total cost for transportation and 1 night stays for each
+ country is $2152.44.

@@ -1,0 +1,17 @@
+Start,Destination,Cost
+oakland,germany,1179
+oakland,france,1027
+oakland,italy,1541
+oakland,spain,1454
+germany,france,52.48
+germany,italy,52.93
+germany,spain,80.73
+france,germany,44.21
+france,italy,39.61
+france,spain,110.00
+italy,germany,52.85
+italy,france,45.15
+italy,spain,112.37
+spain,germany,80.58
+spain,france,107.00
+spain,italy,88.35
